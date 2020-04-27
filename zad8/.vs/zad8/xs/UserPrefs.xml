@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8F0C22AD-FFD3-4BEE-A4F8-9AF423420FA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.zad8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zad8/ChickenBreast.cs">
+    <Files>
+      <File FileName="zad8/Program.cs" Line="11" Column="83" />
+      <File FileName="zad8/ISubject.cs" Line="3" Column="92" />
+      <File FileName="zad8/Bidder.cs" Line="4" Column="19" />
+      <File FileName="zad8/Order.cs" Line="3" Column="139" />
+      <File FileName="zad8/StrategyOfOrders.cs" Line="3" Column="61" />
+      <File FileName="zad8/ChickenBreast.cs" Line="3" Column="1" />
+      <File FileName="zad8/Potato.cs" Line="3" Column="1" />
+      <File FileName="zad8/Auctioneer.cs" Line="4" Column="17" />
+      <File FileName="zad8/IObserver.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zad8" expanded="True">
+            <Node name="zad8" expanded="True">
+              <Node name="ChickenBreast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
