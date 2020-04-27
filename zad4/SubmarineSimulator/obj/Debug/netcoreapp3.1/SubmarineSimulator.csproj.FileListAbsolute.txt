@@ -1,0 +1,11 @@
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\obj\Debug\netcoreapp3.1\SubmarineSimulator.csprojAssemblyReference.cache
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\obj\Debug\netcoreapp3.1\SubmarineSimulator.AssemblyInfoInputs.cache
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\obj\Debug\netcoreapp3.1\SubmarineSimulator.AssemblyInfo.cs
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\bin\Debug\netcoreapp3.1\SubmarineSimulator.exe
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\bin\Debug\netcoreapp3.1\SubmarineSimulator.deps.json
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\bin\Debug\netcoreapp3.1\SubmarineSimulator.runtimeconfig.json
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\bin\Debug\netcoreapp3.1\SubmarineSimulator.runtimeconfig.dev.json
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\bin\Debug\netcoreapp3.1\SubmarineSimulator.dll
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\bin\Debug\netcoreapp3.1\SubmarineSimulator.pdb
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\obj\Debug\netcoreapp3.1\SubmarineSimulator.dll
+C:\Users\Krzysztof.000\Desktop\studia eit\C#\SubmarineSimulator\SubmarineSimulator\obj\Debug\netcoreapp3.1\SubmarineSimulator.pdb

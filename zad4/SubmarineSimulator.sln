@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubmarineSimulator", "SubmarineSimulator\SubmarineSimulator.csproj", "{AFB83795-BFC8-43A4-A885-196AFCC986A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB83795-BFC8-43A4-A885-196AFCC986A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB83795-BFC8-43A4-A885-196AFCC986A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB83795-BFC8-43A4-A885-196AFCC986A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB83795-BFC8-43A4-A885-196AFCC986A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65712467-EB53-4DBD-97BF-A284967512A8}
+	EndGlobalSection
+EndGlobal
