@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4A44523C-2F2E-4AAE-80D0-D73E12101376}|Default">
+  <MonoDevelop.Ide.ItemProperties.zad6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zad6/IEmployee.cs">
+    <Files>
+      <File FileName="zad6/Manager.cs" Line="20" Column="42" />
+      <File FileName="zad6/ChiefExecutiveOfficer.cs" Line="14" Column="23" />
+      <File FileName="zad6/HRDirector.cs" />
+      <File FileName="zad6/IEmployee.cs" Line="4" Column="52" />
+      <File FileName="zad6/IDirector.cs" />
+      <File FileName="zad6/Program.cs" Line="18" Column="70" />
+      <File FileName="zad6/HRDirectorDecorator.cs" />
+      <File FileName="zad6/Employee.cs" Line="5" Column="27" />
+      <File FileName="zad6/RDDirector.cs" />
+      <File FileName="zad6/RDDirectorDecorator.cs" />
+      <File FileName="zad6/ProductionDirector.cs" Line="5" Column="35" />
+      <File FileName="zad6/ProductionDirectorDecorator.cs" Line="5" Column="13" />
+      <File FileName="zad6/DirectorDecorator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zad6" expanded="True">
+            <Node name="zad6" expanded="True">
+              <Node name="IEmployee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
