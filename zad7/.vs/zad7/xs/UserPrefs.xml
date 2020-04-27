@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{34645680-D29F-4948-A728-C74AD2C0EFEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.zad7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zad7/Lenovo.cs">
+    <Files>
+      <File FileName="zad7/Program.cs" Line="34" Column="48" />
+      <File FileName="zad7/ICommand.cs" Line="6" Column="24" />
+      <File FileName="zad7/Coach.cs" Line="3" Column="10" />
+      <File FileName="zad7/Running.cs" />
+      <File FileName="zad7/SeniorAthlete.cs" />
+      <File FileName="zad7/Cycling.cs" Line="3" Column="10" />
+      <File FileName="zad7/DrinkingBeer.cs" Line="10" Column="16" />
+      <File FileName="zad7/Macbook.cs" Line="3" Column="7" />
+      <File FileName="zad7/IMacbook.cs" Line="3" Column="63" />
+      <File FileName="zad7/JuniorAthlete.cs" Line="1" Column="1" />
+      <File FileName="zad7/Lenovo.cs" Line="1" Column="1" />
+      <File FileName="zad7/LaptopAdapter.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zad7" expanded="True">
+            <Node name="zad7" expanded="True">
+              <Node name="Lenovo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

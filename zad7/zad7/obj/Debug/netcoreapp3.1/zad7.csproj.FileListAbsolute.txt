@@ -1,0 +1,12 @@
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/bin/Debug/netcoreapp3.1/zad7.deps.json
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/bin/Debug/netcoreapp3.1/zad7.runtimeconfig.json
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/bin/Debug/netcoreapp3.1/zad7.runtimeconfig.dev.json
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/bin/Debug/netcoreapp3.1/zad7.dll
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/bin/Debug/netcoreapp3.1/zad7.pdb
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.csprojAssemblyReference.cache
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.csproj.CoreCompileInputs.cache
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.AssemblyInfoInputs.cache
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.AssemblyInfo.cs
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.dll
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.pdb
+/Users/krzysiek/Desktop/EiT/6sem/C#/zad7/zad7/obj/Debug/netcoreapp3.1/zad7.genruntimeconfig.cache
