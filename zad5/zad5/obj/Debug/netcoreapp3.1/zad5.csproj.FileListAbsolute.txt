@@ -1,0 +1,12 @@
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.csprojAssemblyReference.cache
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.csproj.CoreCompileInputs.cache
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.AssemblyInfoInputs.cache
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.AssemblyInfo.cs
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/bin/Debug/netcoreapp3.1/zad5.deps.json
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/bin/Debug/netcoreapp3.1/zad5.runtimeconfig.json
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/bin/Debug/netcoreapp3.1/zad5.runtimeconfig.dev.json
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/bin/Debug/netcoreapp3.1/zad5.dll
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/bin/Debug/netcoreapp3.1/zad5.pdb
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.dll
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.pdb
+/Users/krzysiek/Desktop/EiT/6sem/C#/Zad5/zad5/zad5/obj/Debug/netcoreapp3.1/zad5.genruntimeconfig.cache

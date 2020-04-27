@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{40F99C2C-0893-46CB-B5CB-ACCC991BA173}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="zad5/Program.cs">
+    <Files>
+      <File FileName="zad5/Program.cs" Line="67" Column="62" />
+      <File FileName="zad5/BMWx5.cs" />
+      <File FileName="zad5/DaciaDuster.cs" />
+      <File FileName="zad5/BMWseries5.cs" />
+      <File FileName="zad5/Client.cs" />
+      <File FileName="zad5/DaciaLogan.cs" />
+      <File FileName="zad5/WarsawFactory.cs" />
+      <File FileName="zad5/TeslaS.cs" />
+      <File FileName="zad5/ICoupe.cs" Line="7" Column="28" />
+      <File FileName="zad5/DaciaSandero.cs" />
+      <File FileName="zad5/BMWseries4.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zad5" expanded="True">
+            <Node name="zad5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.zad5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
